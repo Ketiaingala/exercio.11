@@ -1,0 +1,33 @@
+@charset "UTF-8";
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+body{
+    background-color: #F2E399;
+}
+
+.txt1{
+    text-align: left;
+    padding: 10px;
+    margin-left: 50px;
+}
+.image{
+    margin: auto;
+    display: block;
+    background-position: center center;
+    background-size: cover;
+}
+footer{
+    text-align: center;
+    padding: 10px;
+}
+h1{
+    font: normal 20px arial;
+    padding-top: 10px;
+    text-align: center;
+}
+div{
+    
+}
